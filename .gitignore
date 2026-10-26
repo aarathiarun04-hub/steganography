@@ -1,0 +1,20 @@
+# Build artifacts
+*.o
+*.obj
+a.out
+*.exe
+
+# Project binaries
+addressbook
+apc
+inverted_search
+lex
+editor
+stegno
+mp3
+
+# Editor / OS junk
+*.swp
+*~
+.DS_Store
+Thumbs.db
